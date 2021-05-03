@@ -1,3 +1,3 @@
-# hibta.github.io
+# Hibta's Pages
 
 https://hibta.github.io/
