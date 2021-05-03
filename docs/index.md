@@ -7,9 +7,11 @@ Hibtaです。個人でアプリを製作しています。
 
 プランクタイマー&記録用アプリです。
 3種類のプランクを記録可能で、結果に応じた段位が認定されます。
-https://play.google.com/store/apps/details?id=io.github.hibta.planktimer
+
+[Play Store](https://play.google.com/store/apps/details?id=io.github.hibta.planktimer)
 
 ### Plank Dojo
 
 プランク道場の英語版です。
-https://play.google.com/store/apps/details?id=io.github.hibta.plankdojo
+
+[Play Store](https://play.google.com/store/apps/details?id=io.github.hibta.plankdojo)
