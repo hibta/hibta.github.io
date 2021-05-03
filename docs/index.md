@@ -13,5 +13,6 @@ Hibtaです。個人でアプリを製作しています。
 ### Plank Dojo
 
 プランク道場の英語版です。
+The English version of プランク道場.
 
 [Play Store](https://play.google.com/store/apps/details?id=io.github.hibta.plankdojo)
